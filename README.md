@@ -1,3 +1,3 @@
 # Deployed on Netlify:
 
-[Portfolio Link](https://aaryanbg.netlify.app "Click Here to Visit")
+[Click Here to Visit](https://aaryanbg.netlify.app)
