@@ -63,6 +63,13 @@ const Navbar = () => {
 							<a href={`#${nav.id}`}>{nav.title}</a>
 						</li>
 					))}
+
+					{/* Add the new li element here */}
+					<li className='text-secondary hover:text-white text-[18px] font-medium cursor-pointer'>
+						<a href='/resume.pdf' download>
+							Resume
+						</a>
+					</li>
 				</ul>
 
 				<div className='sm:hidden flex flex-1 justify-end items-center'>
